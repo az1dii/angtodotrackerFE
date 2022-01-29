@@ -17,7 +17,7 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 1px solid rgb(27, 106, 216);
   padding: 30px;
   border-radius: 5px;
 }
@@ -79,3 +79,5 @@ body {
   flex: 2;
   height: 20px;
 }
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
